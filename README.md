@@ -1,5 +1,3 @@
 # Dynamic Music Discs
 
-Rename a dynamic music disc and put it in a jukebox!
-
-Make a dynamic disc with 2 coal and 2 flint.
+This is a fork of Rubydesic's Dynamic Discs mod that has been updated to 1.17.1 for a friend's server.
